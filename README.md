@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Ann
+Frontend Developer at SA MEDIA GROUP\
 
-<!--
-**Spanri/Spanri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Rating Top 5 My Favorite Technology 2020
 
-Here are some ideas to get you started:
+№ | Technology
+--|--------------
+1 | JavaScript
+2 | Vue.js (and its entire ecosystem)
+3 | Typescript
+4 | Docker
+5 | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I’m currently learning
+`[ Docker, React ]`
+
+## Other hobbies
+Drawing (over 9 years) => https://vk.com/art_nysha
