@@ -1,10 +1,10 @@
-# Hi, I'm Ann!
+# Hi, I'm Ann! :shipit:
 Frontend Developer at SA MEDIA GROUP
 
-## Rating Top 5 My Favorite Technology 2020
+## :trophy: Rating Top 5 My Favorite Technology 2020
 
 ```javascript
-rating = {
+{
   1: "JavaScript",
   2: "Vue.js", // (and its entire ecosystem)
   3: "Typescript",
@@ -13,8 +13,8 @@ rating = {
 }
 ```
 
-## I’m currently learning
+## :pencil2: I’m currently learning
 `[ Docker, React ]`
 
-## Other hobbies
+## :cookie: Other hobbies
 Drawing (over 9 years) => https://vk.com/art_nysha
