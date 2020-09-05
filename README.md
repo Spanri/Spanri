@@ -1,5 +1,5 @@
-# Hi, I'm Ann
-Frontend Developer at SA MEDIA GROUP\
+# Hi, I'm Ann!
+Frontend Developer at SA MEDIA GROUP
 
 ## Rating Top 5 My Favorite Technology 2020
 
