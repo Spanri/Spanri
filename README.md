@@ -8,8 +8,8 @@ Frontend Developer at SA MEDIA GROUP (Oohdesk project)
   1: "JavaScript",
   2: "Vue.js", // (and its entire ecosystem)
   3: "Typescript",
-  4: "Docker",
-  5: "Python"
+  4: "React"
+  5: "Docker",
 }
 ```
 
