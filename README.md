@@ -1,5 +1,5 @@
 # Hi, I'm Ann! :shipit:
-Frontend Developer at SA MEDIA GROUP (Oohdesk project)
+Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk project)
 
 ## :trophy: Rating Top 5 My Favorite Technology 2021
 
