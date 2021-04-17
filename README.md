@@ -14,7 +14,7 @@ Frontend Developer at SA MEDIA GROUP (Oohdesk project)
 ```
 
 ## :pencil2: I’m currently learning
-`[ Docker, React ]`
+`[ "Typescript", "React" ]`
 
 ## :cookie: Other hobbies
-Drawing (over 9 years) => https://vk.com/art_nysha
+Digital and some traditional drawing (over 10 years) => https://vk.com/art_nysha
