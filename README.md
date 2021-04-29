@@ -1,6 +1,11 @@
 # Hi, I'm Ann! :shipit:
 Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk project)
 
+## :star: I recommend looking at these my projects
+[spanri.github.io/](spanri.github.io/)
+
+(the others are rubbish lol)
+
 ## :trophy: Rating Top 5 My Favorite Technology 2021
 
 ```javascript
