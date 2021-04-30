@@ -2,7 +2,7 @@
 Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk project)
 
 ## :star: I recommend looking at these my projects
-[spanri.github.io/](spanri.github.io/)
+[spanri.github.io](https://spanri.github.io/)
 
 (the others are rubbish lol)
 
