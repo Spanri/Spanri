@@ -23,3 +23,9 @@ Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk p
 
 ## :cookie: Other hobbies
 Digital and some traditional drawing (over 10 years) => https://vk.com/art_nysha
+
+| Where | My account |
+| --------| --------|
+| **Email** | kozlova9v@mail.ru |
+| **Telegram** | @spanri |
+| **VK** | animeshny_kot |
