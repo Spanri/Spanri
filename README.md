@@ -10,11 +10,11 @@ Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk p
 
 ```javascript
 {
-  0: "JavaScript",
-  1: "Vue.js", // (and its entire ecosystem)
-  2: "Typescript",
-  3: "React"
-  4: "Docker",
+  0: "Typescript",
+  1: "Vue.js", // (2 and 3 are equally cool, and its entire ecosystem),
+  2: "Docker",
+  3: "Capacitor", // for mobile
+  4: "React"
 }
 ```
 
@@ -22,9 +22,10 @@ Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk p
 ```javascript
 {
   0: "Typescript",
-  1: "React", // (and its entire ecosystem)
+  1: "Vue 3",
   2: "Microfrontends",
-  3: "PWA"
+  3: "PWA", // service workers, push notifies, cache...
+  4: "Web3"
 }
 ```
 
