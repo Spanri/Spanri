@@ -10,20 +10,19 @@ Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk p
 
 ```javascript
 {
-  0: "Typescript",
-  1: "Vue 2", // and its entire ecosystem
-  2: "Docker"
+  0: "Vue 2/3", // and its entire ecosystem
+  1: "Typescript",
+  2: "Vite / Rollup / Webpack" // depending on the task
 }
 ```
 
 ## :pencil2: I've been learning for the last year
 ```javascript
 {
-  0: "Architectural patterns, microfrontends", // practicing and exploring other solutions (in specific looking at the interface of various libraries)
-  1: "Vue 3",
-  2: "Js bundlers", // vite, rollup
-  3: "PWA", // service workers, push notifies, cache...
-  4: "Web3"
+  0: "Js bundlers", // vite, rollup
+  1: "Architectural patterns, microfrontends", // practicing and exploring other solutions (in specific looking at the interface of various libraries)
+  2: "Package managers", // npm, npm worspaces, package compatibility, other pm for general development
+  3: "Advanced css and js"
 }
 ```
 
