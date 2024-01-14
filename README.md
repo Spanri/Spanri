@@ -1,5 +1,6 @@
 # Hi, I'm Ann! :shipit:
 Frontend Developer (and a little bit of a designer) at SA MEDIA GROUP (Oohdesk project)
+
 INTP-A
 
 ## :star: I recommend looking at these my projects
